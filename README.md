@@ -3,7 +3,7 @@
 # Youtube Web Site Clone
 **유튜브 다크모드 웹사이트 클론 프로젝트**  
 
-2023.01.16 ~ 01.20 (본 진행 기간)
+2023.01.16 ~ 01.20 (본 진행 기간)  
 2023.01.25 ~ 02.07 (2차 수정 기간)
 
 ![React](https://img.shields.io/badge/react-v18+-blue?logo=react)  
