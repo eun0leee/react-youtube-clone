@@ -51,4 +51,3 @@
 |<a href="https://github.com/dreamchach"><img src="https://avatars.githubusercontent.com/u/114228865?v=4" width=160/></a>|<a href="https://github.com/eun0leee"><img src="https://avatars.githubusercontent.com/u/90189513?v=4" width=160/></a>|<a href="https://github.com/whtmdgn1409"><img src="https://avatars.githubusercontent.com/u/37996446?v=4" width=160/></a>|<a href="https://github.com/Wonny-ing"><img src="https://avatars.githubusercontent.com/u/108329185?v=4" width=160/></a>|
 
 * [Team5 Git Repository](https://github.com/react-toyproject-team5/react-youtube-clone)
-* [Team5 Notion](https://lace-marigold-6ad.notion.site/5-7985818b00654994beae56511e650d7b)
